@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ITH.ArchProg.T3.Banking/.vs
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.API/bin
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.API/obj/Debug
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.Domain/bin/Debug
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.Domain/obj/Debug
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.EventProcessor/bin/Debug
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.EventProcessor/obj/Debug
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.Infrastructure/bin/Debug
+/ITH.ArchProg.T3.Banking/ITH.ArchProg.T3.Banking.Infrastructure/obj/Debug
